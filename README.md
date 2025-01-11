@@ -7,3 +7,7 @@ The Cat Gallery App aims to:
 - Display a collection of cat photos in an aesthetically pleasing gallery layout.
 - Allow users to upload their favorite cat photos.
 - Provide functionalities to like, comment, and share photos.
+
+## Technologies Used
+- HTML: For structuring the website.
+- CSS: For styling and designing the website.
